@@ -153,3 +153,15 @@ You may use and share the project according to the terms of the license, provide
 
 See the official license text for the complete terms:
 https://creativecommons.org/licenses/by-nd/4.0/
+
+## UI Example
+
+<img width="810" height="604" alt="Bildschirmfoto von 2022-05-08 17-57-42" src="https://github.com/user-attachments/assets/bee3c187-6949-4cf0-8fab-e2a18541a805" />
+
+<img width="644" height="644" alt="Bildschirmfoto von 2022-05-08 17-58-03" src="https://github.com/user-attachments/assets/c07538a8-a4ad-45ce-a8be-720dee7fa996" />
+
+<img width="644" height="529" alt="Bildschirmfoto von 2022-05-08 17-59-19" src="https://github.com/user-attachments/assets/d4010748-0d13-408d-93d5-d9f4748fee4e" />
+
+<img width="364" height="138" alt="Bildschirmfoto von 2022-05-08 18-00-32" src="https://github.com/user-attachments/assets/479f3dab-3039-449b-9711-34acb0fd67aa" />
+
+
