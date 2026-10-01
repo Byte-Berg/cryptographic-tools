@@ -3,24 +3,26 @@
 A Python-based graphical application for experimenting with and demonstrating cryptographic algorithms and concepts.
 
 The project is based around a graphical user interface built with Tkinter and implements the cryptographic functionality using Python's standard library wherever possible.
-
 ## Features
 
 The project provides tools for working with several cryptographic concepts, including:
 
-* **Cryptographic hashing** using algorithms provided by Python's `hashlib` (SHA-3 and SHA-512 based operations).
+* **Cryptographic hashing** using algorithms provided by Python's `hashlib` (SHA-3, SHA-256, and SHA-512 based operations).
 * **Byte-array based cryptographic operations** including XOR operations, modular addition, and byte-array transformations.
 * **ARX-style encryption and decryption** operations.
 * **Block-cipher related functionality** including Counter-mode (CTR) and CBC-style encryption/decryption.
+* **File encryption and decryption** utilities for securely processing entire files.
 * **Key generation** using cryptographically secure randomness provided by `random.SystemRandom`.
 * **Large-number modular arithmetic** and probabilistic primality testing using the Miller-Rabin algorithm.
-* **Generation of public/private key pairs** based on a safe prime and generator.
-* **Digital signature** generation and verification.
-* **A graphical user interface** for interacting with the cryptographic functionality.
+* **Safe prime generation** driven by a customized Miller-Rabin implementation to find cryptographically secure primes.
+* **Diffie-Hellman key exchange** functionality for secure parameter and shared secret generation.
+* **Digital signature** generation and verification using a custom Schnorr-signature scheme.
+* **A graphical user interface** built with Tkinter for seamless interaction with all cryptographic functionalities.
 
 The repository also contains two handbooks that document parts of the project:
 * `Handbook-01 signatures and setup.pdf` — information about signatures and initial setup.
 * `Handbook-02 encryption and decryption.pdf` — information about encryption and decryption.
+
 
 ## Project Goal
 
